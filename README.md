@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Noel Tejeda 👋
 
 <!--
 **NoelTejeda/NoelTejeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
