@@ -1,8 +1,8 @@
 #### Hello! , I'm Noel Tejeda
 
-Saludos a todos los entusiastas del conocimiento, En estos momentos me encuentro en constante aprendizaje y he querido compartir un poco de las cosas que he realizado y algunas páginas que me han servido de mucha ayuda.
+Greetings to all knowledge enthusiasts, At the moment I am in constant learning and I wanted to share a little of the things I have done and some pages that have been very helpful.
 
-100% Libre 100% Linux
+100% Free 100% Linux
 
 https://cmdchallenge.com/                  >>       retos usando la Shell
 
