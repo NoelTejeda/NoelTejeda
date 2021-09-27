@@ -1,8 +1,8 @@
-#### Hello! , I'm Noel Tejeda
+#### Hello World !, I'm Noel Tejeda
 
 Greetings to all knowledge enthusiasts, At the moment I am in constant learning and I wanted to share a little of the things I have done and some pages that have been very helpful.
 
-100% Free 100% Linux
+
 
 https://cmdchallenge.com/                  >>       retos usando la Shell
 
