@@ -2,7 +2,11 @@
 
 Greetings to all knowledge enthusiasts, At the moment I am in constant learning and I wanted to share a little of the things I have done and some pages that have been very helpful.
 
+https://adventjs.dev/                      >> retos JS
 
+https://www.codewars.com/
+
+https://exercism.org/profiles/intro
 
 https://cmdchallenge.com/                  >>       retos usando la Shell
 
@@ -25,6 +29,8 @@ https://10fastfingers.com/advanced-typing-test/spanish >> otra muy útil para ap
 https://www.duolingo.com/profile/NoelTejeda1  >> Es Necesario dominar el Inglés
 
 https://es.lyricstraining.com/en  >> aprende Inglés con escuchando difentes tipos de canciones
+
+
 
 
 
