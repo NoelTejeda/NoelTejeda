@@ -1,12 +1,19 @@
 #### Hello World !, I'm Noel Tejeda 👋
 
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noeltejeda&label=Profile%20views&color=0e75b6&style=flat" alt="noeltejeda" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noeltejeda&show_icons=true&locale=en&layout=compact" alt="noeltejeda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noeltejeda&show_icons=true&locale=en" alt="noeltejeda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noeltejeda&" alt="noeltejeda" /></p>
+
 
 Greetings to all knowledge enthusiasts, At the moment I am in constant learning and I wanted to share a little of the things I have done and some pages that have been very helpful.
 
