@@ -38,3 +38,12 @@ I am a front-end developer passionate about programming and constant progress. I
         </tr>
     </table>
 </p>
+
+----------------------------------------------
+
+
+<h3 align="center">🏆 Github Profile Trophy:</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NoelTejeda&column=6&row=1"/>
+</div>
+</br>
