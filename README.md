@@ -31,11 +31,13 @@ I am a front-end developer passionate about programming and constant progress. I
     <table>
         <tr>
             <td  align="center">
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noeltejeda&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" width="400" height="200" />
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=noeltejeda&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="noeltejeda" width="400" height="200"/>
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noeltejeda&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" width="250" height="150" />
             </td>
+            <td>
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=noeltejeda&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="noeltejeda" width="250" height="150"/>  
+             </td>
                 <td>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeltejeda&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" alt="noeltejeda"  width="400" height="200"/>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeltejeda&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" alt="noeltejeda"  width="250" height="150"/>
             </td>
         </tr>
     </table>
