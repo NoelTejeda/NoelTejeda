@@ -22,9 +22,15 @@ I am a front-end developer passionate about programming and constant progress. I
 
 ----------------------------------------------
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noeltejeda&show_icons=true&locale=en" alt="noeltejeda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noeltejeda&" alt="noeltejeda" /></p>
-
-
+<p align="center">
+    <table style="border: 0;">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=noeltejeda&show_icons=true&locale=en" alt="noeltejeda" width="400" height="200" />
+            </td>
+            <td>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=noeltejeda&" alt="noeltejeda" width="400" height="200" />
+            </td>
+        </tr>
+    </table>
+</p>
