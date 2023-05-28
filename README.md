@@ -1,4 +1,6 @@
-#### Hello World !, I'm Noel Tejeda 👋
+
+
+<h1 align='center'> Hello World !, I'm Noel Tejeda 👋</h1>
 
 ### 💻 &nbsp;About Me
 <!-- BLOGPOSTS:START -->
